@@ -1,0 +1,13 @@
+org\crm\selenium\pages\TaskPage.class
+org\crm\selenium\pages\HomePage.class
+org\crm\selenium\ExtentReportsListener\ExtentReportListener.class
+org\crm\selenium\macros\Assertions.class
+org\crm\selenium\pages\DealsPage.class
+org\crm\selenium\pages\ContactsPage.class
+org\crm\selenium\utils\TestUtil.class
+org\crm\selenium\macros\verifyTitle.class
+org\crm\selenium\macros\SeleniumClick.class
+org\crm\selenium\pages\LoginPage.class
+org\crm\selenium\pages\SignupPage.class
+org\crm\selenium\macros\Navigation.class
+org\crm\selenium\base\TestBase.class

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-08T22:48:10 GMT-07:00" name="Command line suite" finished-at="2021-10-08T22:49:57 GMT-07:00" duration-ms="106391">
+    <groups>
+    </groups>
+    <test started-at="2021-10-08T22:48:10 GMT-07:00" name="Command line test" finished-at="2021-10-08T22:49:57 GMT-07:00" duration-ms="106391">
+      <class name="org.crm.selenium.tests.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.crm.selenium.tests.LoginPageTest@235834f2]" started-at="2021-10-08T22:49:27 GMT-07:00" name="setup" finished-at="2021-10-08T22:49:34 GMT-07:00" duration-ms="6526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPageTitleTest()[pri:1, instance:org.crm.selenium.tests.LoginPageTest@235834f2]" started-at="2021-10-08T22:49:34 GMT-07:00" name="LoginPageTitleTest" finished-at="2021-10-08T22:49:34 GMT-07:00" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.crm.selenium.tests.LoginPageTest@235834f2]" started-at="2021-10-08T22:49:34 GMT-07:00" name="setup" finished-at="2021-10-08T22:49:41 GMT-07:00" duration-ms="7474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CRMLogoValidationTest()[pri:2, instance:org.crm.selenium.tests.LoginPageTest@235834f2]" started-at="2021-10-08T22:49:41 GMT-07:00" name="CRMLogoValidationTest" finished-at="2021-10-08T22:49:42 GMT-07:00" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRMLogoValidationTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.crm.selenium.tests.LoginPageTest@235834f2]" started-at="2021-10-08T22:49:42 GMT-07:00" name="setup" finished-at="2021-10-08T22:49:49 GMT-07:00" duration-ms="7629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginTest()[pri:3, instance:org.crm.selenium.tests.LoginPageTest@235834f2]" started-at="2021-10-08T22:49:49 GMT-07:00" name="LoginTest" finished-at="2021-10-08T22:49:57 GMT-07:00" duration-ms="7405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- org.crm.selenium.tests.LoginPageTest -->
+      <class name="org.crm.selenium.tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:48:10 GMT-07:00" name="setup" finished-at="2021-10-08T22:48:24 GMT-07:00" duration-ms="13577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomepageTitletest()[pri:1, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:48:24 GMT-07:00" name="verifyHomepageTitletest" finished-at="2021-10-08T22:48:24 GMT-07:00" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitletest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:48:24 GMT-07:00" name="setup" finished-at="2021-10-08T22:48:36 GMT-07:00" duration-ms="12005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUsernameTest()[pri:2, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:48:36 GMT-07:00" name="verifyUsernameTest" finished-at="2021-10-08T22:48:36 GMT-07:00" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsernameTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:48:36 GMT-07:00" name="setup" finished-at="2021-10-08T22:48:51 GMT-07:00" duration-ms="14638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyContactPageLinkTest()[pri:3, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:48:51 GMT-07:00" name="verifyContactPageLinkTest" finished-at="2021-10-08T22:48:53 GMT-07:00" duration-ms="2217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactPageLinkTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:48:53 GMT-07:00" name="setup" finished-at="2021-10-08T22:49:12 GMT-07:00" duration-ms="18613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDealsPageLinkTest()[pri:4, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:49:12 GMT-07:00" name="verifyDealsPageLinkTest" finished-at="2021-10-08T22:49:13 GMT-07:00" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDealsPageLinkTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:49:13 GMT-07:00" name="setup" finished-at="2021-10-08T22:49:26 GMT-07:00" duration-ms="12255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTasksPageLinkTest()[pri:5, instance:org.crm.selenium.tests.HomePageTest@2b662a77]" started-at="2021-10-08T22:49:26 GMT-07:00" name="verifyTasksPageLinkTest" finished-at="2021-10-08T22:49:27 GMT-07:00" duration-ms="1698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTasksPageLinkTest -->
+      </class> <!-- org.crm.selenium.tests.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

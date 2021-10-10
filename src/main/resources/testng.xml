@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FREECRMAutomation Test suite">
+	<test name="regression">
+		<classes>
+			<class name="org.crm.selenium.tests.HomePageTest">
+			</class>
+			<class name="org.crm.selenium.tests.LoginPageTest">
+			</class>
+		</classes>
+	</test>
+</suite>
